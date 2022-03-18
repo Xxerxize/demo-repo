@@ -9,7 +9,10 @@ Trying to get a hold of this brief.
 
 > Feature branch.
 
+** Main branch goes all the way.
 
 ### Pull request (PR)
 
 A request to have you code pilled into another branch.
+
+**
