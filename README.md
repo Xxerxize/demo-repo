@@ -9,7 +9,7 @@ Trying to get a hold of this brief.
 
 > Feature branch.
 
-**Main branch goes all the way**
+
 
 ### Pull request (PR)
 
