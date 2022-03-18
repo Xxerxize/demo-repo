@@ -8,3 +8,8 @@ Trying to get a hold of this brief.
 > Main branch,
 
 > Feature branch.
+
+
+### Pull request (PR)
+
+A request to have you code pilled into another branch.
