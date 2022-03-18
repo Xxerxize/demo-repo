@@ -5,5 +5,6 @@ Trying to get a hold of this brief.
 
 ## Git Branching
 
-> Main branch
+> Main branch,
+
 > Feature branch.
